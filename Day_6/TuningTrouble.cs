@@ -36,6 +36,7 @@ namespace AdventOfCode
 
                 System.Console.WriteLine(output);
             }
+
             void Part2()
             {
                 for (int i = 0; i < characters.Length - 13; i++)
