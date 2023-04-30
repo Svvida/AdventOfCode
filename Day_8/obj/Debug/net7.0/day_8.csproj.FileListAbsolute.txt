@@ -1,0 +1,15 @@
+D:\GitHub\AdventOfCode\Day_8\bin\Debug\net7.0\day_8.exe
+D:\GitHub\AdventOfCode\Day_8\bin\Debug\net7.0\day_8.deps.json
+D:\GitHub\AdventOfCode\Day_8\bin\Debug\net7.0\day_8.runtimeconfig.json
+D:\GitHub\AdventOfCode\Day_8\bin\Debug\net7.0\day_8.dll
+D:\GitHub\AdventOfCode\Day_8\bin\Debug\net7.0\day_8.pdb
+D:\GitHub\AdventOfCode\Day_8\obj\Debug\net7.0\day_8.csproj.AssemblyReference.cache
+D:\GitHub\AdventOfCode\Day_8\obj\Debug\net7.0\day_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AdventOfCode\Day_8\obj\Debug\net7.0\day_8.AssemblyInfoInputs.cache
+D:\GitHub\AdventOfCode\Day_8\obj\Debug\net7.0\day_8.AssemblyInfo.cs
+D:\GitHub\AdventOfCode\Day_8\obj\Debug\net7.0\day_8.csproj.CoreCompileInputs.cache
+D:\GitHub\AdventOfCode\Day_8\obj\Debug\net7.0\day_8.dll
+D:\GitHub\AdventOfCode\Day_8\obj\Debug\net7.0\refint\day_8.dll
+D:\GitHub\AdventOfCode\Day_8\obj\Debug\net7.0\day_8.pdb
+D:\GitHub\AdventOfCode\Day_8\obj\Debug\net7.0\day_8.genruntimeconfig.cache
+D:\GitHub\AdventOfCode\Day_8\obj\Debug\net7.0\ref\day_8.dll
